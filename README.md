@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ko, currently a senior in NTHU CS.
+Hi, I'm GUO-XUN Ko, currently a senior at NTHU CS.
 
 
 # 💻 Tech Stack:
